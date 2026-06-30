@@ -1,13 +1,167 @@
-<h1 align="center">Hi 👋, I'm Vishwjeet</h1>
-<h3 align="center">I’m a developer working with Laravel, JavaScript, JQuery, React, and MySQL</h3>
+<h1 align="center">Hi 👋, I'm Vishwjeet Kumar</h1>
+<h3 align="center">Laravel Backend Developer | Vue.js Developer | REST API Specialist</h3>
 
-- 💬 Ask me about **Laravel**
-
-- 📫 How to reach me **bishwjitkumaraur@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vishwjeet-45&label=Profile%20Views&color=7b2578&style=flat" alt="Profile Views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
+
+## 🚀 About Me
+
+💻 Laravel Backend Developer with **3+ years of professional experience**
+
+🔹 Building scalable SaaS applications, Admin Panels & REST APIs
+
+🔹 Experienced in Multi-Tenant Architecture, RBAC, Authentication & Database Optimization
+
+🔹 Passionate about clean architecture, performance optimization, and writing maintainable code
+
+🔹 Currently working with **Laravel 12, Vue.js, SQL Server, MySQL & Tailwind CSS**
+
+📍 India
+
+---
+
+## 🛠 Tech Stack
+
+### Backend
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
+
+### Frontend
+
+![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vue.js&logoColor=white)
+![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge)
+![Livewire](https://img.shields.io/badge/Livewire-FB70A9?style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+# 💼 Featured Projects
+
+### 🏥 Multi-Tenant Hospital Management System
+
+- Multi-Tenant Architecture
+- Dynamic Tenant Branding
+- RBAC
+- Secure Authentication
+- Dashboard
+- REST APIs
+
+Laravel • Vue.js • MySQL
+
+---
+
+### 🧾 CRM Backend APIs
+
+- Customer Management
+- Invoices
+- Agreements
+- Orders
+- Authentication
+- REST APIs
+
+Laravel • MySQL
+
+---
+
+### 🍽 Restaurant Ordering System
+
+- Cart
+- Checkout
+- Order Tracking
+- Admin Dashboard
+
+Laravel • Livewire
+
+---
+
+### 🛒 Multi Vendor Ecommerce APIs
+
+- Vendor Management
+- Product APIs
+- Orders
+- Authentication
+
+Laravel • REST API
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vishwjeet-45&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwjeet-45&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vishwjeet-45&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+- Laravel 12
+- Vue 3
+- Inertia.js
+- Docker
+- AWS
+- Microservices
+
+---
+
+## 🤝 Open For
+
+✅ Freelance Projects
+
+✅ Laravel Backend Development
+
+✅ REST API Development
+
+✅ SaaS Applications
+
+✅ Dashboard Development
+
+✅ Bug Fixing
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: bishwjitkumaraur@gmail.com
+
+💼 LinkedIn:
+https://linkedin.com/in/vishwjeet-kumar-a918a625a
+
+🐙 GitHub:
+https://github.com/vishwjeet-45
+
+---
+
+## 💡 Quote
+
+> "First solve the problem. Then write clean and maintainable code."
+
+⭐ If you like my work, don't forget to star my repositories!
