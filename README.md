@@ -1,13 +1,197 @@
-<h1 align="center">Hi 👋, I'm Vishwjeet</h1>
-<h3 align="center">I’m a developer working with Laravel, JavaScript, JQuery, React, and MySQL</h3>
+<div align="center">
 
-- 💬 Ask me about **Laravel**
+# Hi 👋, I'm Vishwjeet Kumar
 
-- 📫 How to reach me **bishwjitkumaraur@gmail.com**
+### 🚀 Laravel Developer | SaaS Builder | API Developer | Multi-Tenant Architecture
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Laravel+Developer;Building+Scalable+SaaS+Applications;Vue.js+%7C+React+%7C+Livewire;REST+API+Developer;AI+Chatbot+Integration;Always+Learning+New+Technologies" />
+
+<img src="https://komarev.com/ghpvc/?username=vishwjeet-45&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+
+</div>
+
+---
+
+# 👨‍💻 About Me
+
+💼 Laravel Developer with **3+ years of experience**
+
+🚀 Building scalable **SaaS Applications**
+
+🏥 Developed a **Multi-Tenant Hospital Management System**
+
+🤖 Built an **AI-powered Chatbot** for a Job Portal
+
+⚡ Passionate about **System Design**, **Performance Optimization**, **Database Scaling**, and **Clean Architecture**
+
+🌱 Currently learning
+
+- AI Integration with Laravel
+- LLM Applications
+- Microservices
+- AWS
+- Docker
+
+📫 **Email**
+
+**bishwjitkumaraur@gmail.com**
+
+---
+
+# 🚀 Tech Stack
+
+## Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,redis"/>
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+## Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=vue,react,js,html,css,bootstrap"/>
+
+</p>
+
+## Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode"/>
+
+</p>
+
+---
+
+# 💼 Featured Projects
+
+## 🏥 Multi-Tenant Hospital Management System
+
+✔ Laravel
+
+✔ Vue.js
+
+✔ RBAC
+
+✔ Multi-Tenancy
+
+✔ Tenant Theme Management
+
+✔ Dynamic Domains
+
+✔ REST APIs
+
+---
+
+## 🤖 AI Job Portal
+
+✔ Laravel
+
+✔ Livewire
+
+✔ AI Chatbot
+
+✔ Resume Parsing
+
+✔ Employer Dashboard
+
+✔ Candidate Dashboard
+
+✔ Smart Job Search
+
+---
+
+## 🍽 MealBoy Restaurant Ordering System
+
+✔ Laravel
+
+✔ Livewire
+
+✔ REST APIs
+
+✔ Cart
+
+✔ Checkout
+
+✔ Admin Dashboard
+
+---
+
+## 🛒 Multi Vendor eCommerce
+
+✔ Laravel REST APIs
+
+✔ React Frontend
+
+✔ Vendor Management
+
+✔ Orders
+
+✔ Authentication
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vishwjeet-45&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwjeet-45&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=vishwjeet-45&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophy
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=vishwjeet-45&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vishwjeet-45&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🌐 Connect with Me
+
+<p align="left">
+
+<a href="mailto:bishwjitkumaraur@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://github.com/vishwjeet-45">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Quote
+
+> "First solve the problem. Then write clean, scalable code."
+
+---
+
+⭐ Thanks for visiting my profile!
