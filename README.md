@@ -1,12 +1,15 @@
 <div align="center">
 
-# Hi 👋, I'm Vishwjeet Kumar
+# Hi 👋 I'm Vishwjeet Kumar
 
-### 🚀 Laravel Developer | SaaS Builder | API Developer | Multi-Tenant Architecture
+### 🚀 Full Stack Laravel Developer • SaaS Builder • AI Integration • Open Source Contributor
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Laravel+Developer;Building+Scalable+SaaS+Applications;Vue.js+%7C+React+%7C+Livewire;REST+API+Developer;AI+Chatbot+Integration;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Laravel+Developer;Building+Scalable+SaaS+Applications;Multi-Tenant+Architecture;REST+API+Developer;AI+Chatbot+Developer;Open+Source+Contributor;Vue.js+%7C+React+%7C+Livewire;PostgreSQL+%7C+MSSQL+%7C+MySQL" />
 
-<img src="https://komarev.com/ghpvc/?username=vishwjeet-45&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=vishwjeet-45&style=for-the-badge&color=0e75b6" />
+
+[![GitHub followers](https://img.shields.io/github/followers/vishwjeet-45?style=for-the-badge)](https://github.com/vishwjeet-45)
+[![GitHub stars](https://img.shields.io/github/stars/vishwjeet-45?style=for-the-badge)](https://github.com/vishwjeet-45)
 
 </div>
 
@@ -14,27 +17,17 @@
 
 # 👨‍💻 About Me
 
-💼 Laravel Developer with **3+ years of experience**
+I'm a **Laravel Developer** with **3+ years of experience** building production-ready SaaS applications, REST APIs, admin dashboards, AI-powered features, and multi-tenant systems.
 
-🚀 Building scalable **SaaS Applications**
+I enjoy solving performance problems, designing scalable architectures, and building reusable Laravel packages.
 
-🏥 Developed a **Multi-Tenant Hospital Management System**
+### 💼 Currently Working On
 
-🤖 Built an **AI-powered Chatbot** for a Job Portal
-
-⚡ Passionate about **System Design**, **Performance Optimization**, **Database Scaling**, and **Clean Architecture**
-
-🌱 Currently learning
-
-- AI Integration with Laravel
-- LLM Applications
-- Microservices
-- AWS
-- Docker
-
-📫 **Email**
-
-**bishwjitkumaraur@gmail.com**
+- 🏥 Multi-Tenant Hospital Management System
+- 🤖 AI-powered Job Portal
+- 📦 Laravel Open Source Packages
+- ⚡ Performance Optimization
+- 🧠 AI + Laravel Integrations
 
 ---
 
@@ -43,110 +36,165 @@
 ## Backend
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql,redis"/>
-
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs"/>
 </p>
 
 ## Frontend
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=vue,react,js,html,css,bootstrap"/>
+</p>
 
+## Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres"/>
+
+<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 </p>
 
 ## Tools
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode"/>
-
+<img src="https://skillicons.dev/icons?i=git,github,redis,postman,figma,vscode"/>
 </p>
 
 ---
 
-# 💼 Featured Projects
+# 🏆 Highlights
+
+- ✅ 3+ Years Laravel Experience
+- ✅ Built Multi-Tenant SaaS Applications
+- ✅ AI Chatbot Development
+- ✅ Laravel Package Developer
+- ✅ REST API Specialist
+- ✅ PostgreSQL Production Experience
+- ✅ Microsoft SQL Server Production Experience
+- ✅ Redis Caching
+- ✅ Database Optimization
+- ✅ Authentication (JWT, Sanctum, RBAC)
+- ✅ Livewire & Vue.js
+
+---
+
+# 📦 Open Source
+
+## 🤖 JobBot
+
+A plug-and-play AI Chatbot package for Laravel.
+
+### Features
+
+- AI Chatbot
+- Resume Parsing
+- Candidate Search
+- Job Search
+- Voice Input
+- Multi-turn Conversation
+- OpenRouter Integration
+- Custom Intent System
+- Custom Handlers
+
+📦 Packagist
+
+https://packagist.org/packages/ddt/jobbot
+
+GitHub
+
+https://github.com/vishwjeet-45/jobbot
+
+---
+
+# 🚀 Featured Projects
 
 ## 🏥 Multi-Tenant Hospital Management System
 
-✔ Laravel
+### Features
 
-✔ Vue.js
+- Multi Tenant
+- Tenant Database Isolation
+- Dynamic Themes
+- Tenant Asset Management
+- RBAC
+- Vue.js Admin
+- REST APIs
 
-✔ RBAC
+Tech
 
-✔ Multi-Tenancy
-
-✔ Tenant Theme Management
-
-✔ Dynamic Domains
-
-✔ REST APIs
+Laravel • Vue.js • MySQL
 
 ---
 
 ## 🤖 AI Job Portal
 
-✔ Laravel
+### Features
 
-✔ Livewire
+- AI Chatbot
+- Resume Parsing
+- Employer Dashboard
+- Candidate Dashboard
+- Job Recommendation
+- Skill Search
+- Livewire Components
 
-✔ AI Chatbot
+Tech
 
-✔ Resume Parsing
-
-✔ Employer Dashboard
-
-✔ Candidate Dashboard
-
-✔ Smart Job Search
+Laravel • Livewire • MySQL • AI
 
 ---
 
-## 🍽 MealBoy Restaurant Ordering System
+## 🍽 MealBoy
 
-✔ Laravel
+Restaurant Ordering Platform
 
-✔ Livewire
+- Cart
+- Checkout
+- Admin Dashboard
+- Order Tracking
 
-✔ REST APIs
-
-✔ Cart
-
-✔ Checkout
-
-✔ Admin Dashboard
+Laravel • Livewire
 
 ---
 
 ## 🛒 Multi Vendor eCommerce
 
-✔ Laravel REST APIs
+- Vendor Management
+- Product APIs
+- Order Management
+- Authentication
 
-✔ React Frontend
-
-✔ Vendor Management
-
-✔ Orders
-
-✔ Authentication
+Laravel REST APIs + React
 
 ---
 
-# 📈 GitHub Analytics
+## 🚗 AutoInspectPro
+
+Vehicle Inspection Platform
+
+- Calendar
+- Booking
+- Reports
+- Notifications
+
+Laravel
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vishwjeet-45&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=vishwjeet-45&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwjeet-45&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwjeet-45&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
+---
+
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=vishwjeet-45&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vishwjeet-45&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -162,7 +210,7 @@
 
 ---
 
-# 📊 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -172,26 +220,72 @@
 
 ---
 
-# 🌐 Connect with Me
+# 💻 What I Love Building
 
-<p align="left">
-
-<a href="mailto:bishwjitkumaraur@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="https://github.com/vishwjeet-45">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-</p>
-
----
-
-# 💡 Quote
-
-> "First solve the problem. Then write clean, scalable code."
+- Enterprise SaaS
+- Multi-Tenant Applications
+- REST APIs
+- Admin Panels
+- AI Chatbots
+- Laravel Packages
+- Performance Optimized Systems
+- Database Design
+- Queue Systems
+- Authentication Systems
 
 ---
 
-⭐ Thanks for visiting my profile!
+# 🌱 Currently Learning
+
+- AWS
+- Docker
+- Kubernetes
+- Microservices
+- LLM Applications
+- AI Agents
+
+---
+
+# 🤝 Connect With Me
+
+📧 Email
+
+**bishwjitkumaraur@gmail.com**
+
+🌐 GitHub
+
+https://github.com/vishwjeet-45
+
+💼 LinkedIn
+
+YOUR_LINKEDIN_URL
+
+🌍 Portfolio
+
+YOUR_PORTFOLIO_URL
+
+---
+
+# 💬 Developer Quote
+
+> "I believe great software is not just about writing code—it's about solving real problems with scalable, maintainable, and elegant solutions."
+
+---
+
+# ⭐ Fun Facts
+
+- ☕ Coffee + Laravel = ❤️
+- 🚀 Love building SaaS products
+- 🤖 Interested in AI + Laravel
+- 📦 Enjoy creating reusable packages
+- 📚 Always learning something new
+
+---
+
+<div align="center">
+
+## Thanks for visiting my profile ❤️
+
+⭐ Don't forget to follow if you like my work!
+
+</div>
