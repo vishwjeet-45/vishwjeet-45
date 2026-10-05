@@ -258,11 +258,11 @@ https://github.com/vishwjeet-45
 
 💼 LinkedIn
 
-YOUR_LINKEDIN_URL
+www.linkedin.com/in/vishwjeet45
 
 🌍 Portfolio
 
-YOUR_PORTFOLIO_URL
+https://vishwjeet-45-portfolio.vercel.app
 
 ---
 
